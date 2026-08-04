@@ -29,11 +29,11 @@ Le projet réalisé avait pour objectifs de :
 - Simuler le comportement de l'ensemble sous une charge statique;
 - Analyser les contraintes et identifier les zones critiques.
 
-# Logiciels utilisés                    Logiciel	Utilisation
+# Logiciels utilisés               
 
- SolidWorks	                            Conception CAO
- SolidWorks Assembly	                      Assemblage
- SolidWorks Simulation	              Analyse par éléments finis
+ - SolidWorks pour la conception CAO;
+ - SolidWorks Assembly pour la partie assemblage;
+ - SolidWorks Simulation pour la partie analyse par éléments finis.
 
 # Conception des composants
 # a) Roue automobile
