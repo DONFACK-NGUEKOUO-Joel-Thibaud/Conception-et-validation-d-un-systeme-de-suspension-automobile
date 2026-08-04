@@ -54,7 +54,6 @@ L'objectif était d'obtenir une géométrie compatible avec le système de suspe
   <img src="Img/Vu d'nsemble amortisseur.jpg" width="45%">
   <img src="Img/Vue en coupe amortisseur.jpg" width="45%">
 </p>
-(Image en coupe de l'amortisseur)
 
 L'amortisseur constitue l'élément principal du système de suspension.
 
@@ -71,32 +70,28 @@ La modélisation interne permet de représenter fidèlement le principe de fonct
 
 # c) Ressort hélicoïdal
 <p align="center">
-  <img src="Img/ressort.png" width="350"/>
+  <img src="Img/Ressort.png" width="350"/>
 </p>
 
 Le ressort assure la fonction de suspension en absorbant une partie des sollicitations mécaniques appliquées à la roue.
 
 Sa géométrie a été adaptée afin de garantir son intégration avec l'amortisseur.
 
-Plateforme support
-
-(Image de la plateforme)
+# d) Plateforme support
 
 La plateforme représente le châssis du véhicule.
-
 Elle constitue le support principal de l'assemblage et reçoit les efforts transmis par la suspension.
 
-Assemblage mécanique
-
-(Grande image de l'assemblage)
+# e) Assemblage mécanique
+<p align="center">
+  <img src="Img/Assemblage de l'ensemble.png" width="400"/>
+</p>
 
 L'ensemble des composants a ensuite été assemblé dans SolidWorks.
-
 Les différentes liaisons mécaniques ont été définies afin de reproduire le comportement réel d'un système de suspension.
-
 L'assemblage obtenu constitue le modèle utilisé pour les simulations mécaniques.
 
-Dimensionnement
+# f) Dimensionnement
 
 Au cours du projet, plusieurs aspects du dimensionnement ont été pris en compte :
 
@@ -105,9 +100,7 @@ intégration géométrique des pièces ;
 positionnement des interfaces de fixation ;
 vérification de la compatibilité entre les éléments de l'assemblage.
 
-Analyse par éléments finis
-
-(Image de la simulation)
+# g) Analyse par éléments finis
 
 Une analyse statique a été réalisée sous SolidWorks Simulation afin d'évaluer le comportement mécanique de la suspension.
 
@@ -117,7 +110,7 @@ la répartition des contraintes de Von Mises ;
 le transfert des efforts dans la structure ;
 les zones de concentration de contraintes.
 
-Conditions de simulation
+# Conditions de simulation
 
 Les conditions suivantes ont été appliquées :
 
@@ -127,17 +120,16 @@ prise en compte des contacts entre les différents composants.
 
 Remarque : adapte cette section si tes conditions réelles étaient différentes (par exemple si la charge était appliquée sur la plateforme plutôt que sur la roue).
 
-Résultats
-
-(Image des contraintes)
+# Résultats
+<p align="center">
+  <img src="Img/Simulation.jpg" width="400"/>
+</p>
 
 La simulation met en évidence une concentration plus importante des contraintes au niveau des zones de liaison entre le bras de suspension, l'amortisseur et la plateforme.
-
 Les autres composants présentent une répartition plus homogène des contraintes sous le chargement appliqué.
-
 Cette étude permet d'identifier les zones les plus sollicitées et constitue une première étape vers l'optimisation de la conception.
 
-Compétences développées
+# Compétences développées
 
 Au travers de ce projet, les compétences suivantes ont été mobilisées :
 
