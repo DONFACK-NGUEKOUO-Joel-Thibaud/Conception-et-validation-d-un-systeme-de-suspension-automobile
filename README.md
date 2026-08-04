@@ -16,7 +16,7 @@ Une analyse par éléments finis (FEA) a ensuite été réalisée afin d'étudie
 
 Aperçu du projet
 <p align="center">
-  <img src="Img/Assemblage de l'ensemble.jpg" width="700"/>
+  <img src="Img/Assemblage de l'ensemble.jpg" width="200"/>
 </p>
 (Image de l'assemblage complet)
 
