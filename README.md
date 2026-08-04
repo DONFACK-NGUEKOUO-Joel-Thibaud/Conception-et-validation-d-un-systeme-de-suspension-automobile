@@ -1,0 +1,2 @@
+# Conception-et-validation-d-un-systeme-de-suspension-automobile
+Ce projet porte sur la conception mécanique d'un système de suspension automobile comprenant une roue, un amortisseur hydraulique, un ressort hélicoïdal et une plateforme support. L'objectif est de concevoir les différents composants, réaliser leur assemblage puis d'évaluer leur comportement mécanique grâce à l'analyse statique par éléments finis. 
