@@ -15,7 +15,9 @@ Le système étudié comprend :
 Une analyse par éléments finis (FEA) a ensuite été réalisée afin d'étudier la répartition des contraintes dans l'ensemble de la structure.
 
 Aperçu du projet
-
+<p align="center">
+  <img src="images/Assemblage de l'ensemble.png" width="700"/>
+</p>
 (Image de l'assemblage complet)
 
 # Objectifs
