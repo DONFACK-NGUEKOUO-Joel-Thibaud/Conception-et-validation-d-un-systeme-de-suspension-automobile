@@ -18,7 +18,7 @@ Aperçu du projet
 <p align="center">
   <img src="Img/Assemblage de l'ensemble.jpg" width="350"/>
 </p>
-*Figure 1 — Répartition des contraintes de Von Mises obtenue sous SolidWorks Simulation.*
+
 # Objectifs
 Le projet réalisé avait pour objectifs de :
 
