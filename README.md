@@ -59,12 +59,12 @@ L'amortisseur constitue l'élément principal du système de suspension.
 
 Il comprend notamment :
 
-un corps cylindrique ;
-une tige de piston ;
-un piston ;
-une membrane ;
-un ressort hélicoïdal ;
-les interfaces de fixation.
+-> Un corps cylindrique ;
+-> Une tige de piston ;
+-> Un piston ;
+-> Une membrane ;
+-> Un ressort hélicoïdal ;
+-> Les interfaces de fixation.
 
 La modélisation interne permet de représenter fidèlement le principe de fonctionnement d'un amortisseur hydraulique.
 
