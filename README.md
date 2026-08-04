@@ -118,8 +118,6 @@ encastrement de la plateforme support ;
 application d'une charge verticale au niveau de la roue ;
 prise en compte des contacts entre les différents composants.
 
-Remarque : adapte cette section si tes conditions réelles étaient différentes (par exemple si la charge était appliquée sur la plateforme plutôt que sur la roue).
-
 # Résultats
 <p align="center">
   <img src="Img/Simulation.jpg" width="400"/>
