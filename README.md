@@ -16,9 +16,8 @@ Une analyse par éléments finis (FEA) a ensuite été réalisée afin d'étudie
 
 Aperçu du projet
 <p align="center">
-  <img src="Img/Assemblage de l'ensemble.jpg" width="200"/>
+  <img src="Img/Assemblage de l'ensemble.jpg" width="350"/>
 </p>
-(Image de l'assemblage complet)
 
 # Objectifs
 Le projet réalisé avait pour objectifs de :
@@ -30,30 +29,31 @@ Le projet réalisé avait pour objectifs de :
 - Simuler le comportement de l'ensemble sous une charge statique;
 - Analyser les contraintes et identifier les zones critiques.
 
-Logiciels utilisés                    Logiciel	Utilisation
+# Logiciels utilisés                    Logiciel	Utilisation
 
-SolidWorks	                            Conception CAO
-SolidWorks Assembly	                      Assemblage
-SolidWorks Simulation	              Analyse par éléments finis
+ SolidWorks	                            Conception CAO
+ SolidWorks Assembly	                      Assemblage
+ SolidWorks Simulation	              Analyse par éléments finis
 
-Démarche de conception
-
-Conception des composants
-Roue automobile
-
-(Image de la roue)
-
+# Conception des composants
+# a) Roue automobile
+<p align="center">
+  <img src="Img/Roue.png" width="350"/>
+</p>
 La roue a été modélisée en tenant compte de ses principaux éléments :
 
-jante ;
-pneumatique ;
-moyeu ;
-axe de fixation.
+* Jante ;
+* Pneumatique ;
+* Moyeu ;
+* Axe de fixation.
 
 L'objectif était d'obtenir une géométrie compatible avec le système de suspension conçu.
 
-Amortisseur hydraulique
-
+# b) Amortisseur hydraulique
+<p align="center">
+  <img src="Img/Vu d'nsemble amortisseur.jpg" width="45%">
+  <img src="Img/Vue en coupe amortisseur.jpg" width="45%">
+</p>
 (Image en coupe de l'amortisseur)
 
 L'amortisseur constitue l'élément principal du système de suspension.
@@ -69,9 +69,10 @@ les interfaces de fixation.
 
 La modélisation interne permet de représenter fidèlement le principe de fonctionnement d'un amortisseur hydraulique.
 
-Ressort hélicoïdal
-
-(Image du ressort)
+# c) Ressort hélicoïdal
+<p align="center">
+  <img src="Img/ressort.png" width="350"/>
+</p>
 
 Le ressort assure la fonction de suspension en absorbant une partie des sollicitations mécaniques appliquées à la roue.
 
