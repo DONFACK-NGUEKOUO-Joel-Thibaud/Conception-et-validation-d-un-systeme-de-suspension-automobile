@@ -51,7 +51,7 @@ L'objectif était d'obtenir une géométrie compatible avec le système de suspe
 
 # b) Amortisseur hydraulique
 <p align="center">
-  <img src="Img/Vu d'nsemble amortisseur.jpg" width="45%">
+  <img src="Img/Vu d'ensemble amortisseur.jpg" width="45%">
   <img src="Img/Vue en coupe amortisseur.jpg" width="45%">
 </p>
 
@@ -84,7 +84,7 @@ Elle constitue le support principal de l'assemblage et reçoit les efforts trans
 
 # e) Assemblage mécanique
 <p align="center">
-  <img src="Img/Assemblage de l'ensemble.png" width="400"/>
+  <img src="Img/Assemblage de l'ensemble.jpg" width="400"/>
 </p>
 
 L'ensemble des composants a ensuite été assemblé dans SolidWorks.
